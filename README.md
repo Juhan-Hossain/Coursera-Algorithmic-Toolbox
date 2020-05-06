@@ -1,3 +1,3 @@
-Data Structures and Algorithms
+Data Structures and Algorithms course on coursera
 
-This repository will contain my work from the Master Algorithmic Programming Techniques Specialization that was created by UC San Diego and delivered through Coursera. I will be implementing solutions C++.
+This will contain my work from the Mastering Algorithmic Programming Specialization course that was created by UC San Diego and delivered through Coursera. I will be implementing solutions in  C++.
